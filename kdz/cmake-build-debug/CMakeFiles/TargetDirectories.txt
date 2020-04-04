@@ -1,0 +1,5 @@
+/Users/ozaykova/CLionProjects/kdz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ozaykova/CLionProjects/kdz/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ozaykova/CLionProjects/kdz/cmake-build-debug/Fano/CMakeFiles/rebuild_cache.dir
+/Users/ozaykova/CLionProjects/kdz/cmake-build-debug/Fano/CMakeFiles/edit_cache.dir
+/Users/ozaykova/CLionProjects/kdz/cmake-build-debug/Fano/CMakeFiles/fano.dir

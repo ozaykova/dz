@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ozaykova/CLionProjects/kdz/Fano/Fano.cpp
+iostream
+-
+fstream
+-
+stdlib.h
+-
+vector
+-
+unordered_map
+-
+
